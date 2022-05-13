@@ -19,4 +19,4 @@ Example 2:
 ````
 Expected Output: ```1```
 
-Solution in file ``ìndex.js```
+Solution in file ```ìndex.js```
