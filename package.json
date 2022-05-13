@@ -1,0 +1,30 @@
+{
+  "name": "get-max-integer-missed-in-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeSaul/get-max-integer-missed-in-array.git"
+  },
+  "keywords": [
+    "javascript",
+    "arrays",
+    "test",
+    "get",
+    "max",
+    "integer",
+    "missed",
+    "in",
+    "array"
+  ],
+  "author": "Saul Ayala",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LeSaul/get-max-integer-missed-in-array/issues"
+  },
+  "homepage": "https://github.com/LeSaul/get-max-integer-missed-in-array#readme"
+}
