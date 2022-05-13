@@ -1,4 +1,4 @@
-# Get Max Integer Missed in Arrag
+# Get Max Integer Missed in Array
 
 This is a coding test that possibly you have to face in an interview.
 
@@ -18,3 +18,5 @@ Example 2:
 [-3, -1, -4, 0]
 ````
 Expected Output: ```1```
+
+Solution in file ``ìndex.js```
